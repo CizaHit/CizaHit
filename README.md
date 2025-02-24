@@ -11,9 +11,9 @@ Sou um profissional com um perfil bem multidisciplinar. Recentemente, estou me e
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
+- Enjoy it!! \o/
 
-LINK_GIT = [https://github.com/hellenmas.](https://github.com/CizaHit)
+LINK_GIT = https://github.com/CizaHit
 
 - [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 
