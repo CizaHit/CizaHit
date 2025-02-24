@@ -1,11 +1,8 @@
-## I am César 👋
-
 # Welcome!
+# I am César 👋
 
 :computer: Computer Engineer!
-
 :house_with_garden: I'm from Brazil.
-
 :books: I'm currently learning everything.
 
 :outbox_tray: Goals for 2025: create a new project and find a new job.
