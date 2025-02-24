@@ -18,9 +18,7 @@
 
 - Enjoy it!! o/
 
-- (César) = César.
-
-LINK_GIT = https://github.com/hellenmas.
+LINK_GIT = [https://github.com/hellenmas.](https://github.com/CizaHit)
 
 - [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 
