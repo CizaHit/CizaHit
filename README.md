@@ -8,7 +8,7 @@
 :outbox_tray: Goals for 2025: create a new project and find a new job.
 ## About me
 LINK_GIT =
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link= https://github.com/CizaHit)](https://github.com/CizaHit)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CizaHit)](https://github.com/CizaHit)
 
 
 
