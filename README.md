@@ -17,9 +17,11 @@ LINK_GIT = https://github.com/CizaHit
 
 - [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 
-https://github.com/anuraghazra/github-readme-stats#themes
-
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+<img align="right" width="400" height="400" src="[coloque_o_link_de_uma_foto_aqui](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+)">
+<img align="right" width="400" height="400" src="[coloque_o_link_de_uma_foto_aqui](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+)">
 
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+
+
