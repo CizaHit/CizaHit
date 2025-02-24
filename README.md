@@ -7,11 +7,7 @@
 
 :outbox_tray: Goals for 2025: create a new project and find a new job.
 ## About me
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-
+Sou um profissional com um perfil bem multidisciplinar. Recentemente, estou me especializando em dados  e cloud. Minha experiência na educação me ensinou a ser paciente, empático e a ter uma abordagem didática para resolver problemas, características valiosas quando se trata de colaborar em equipes diversas, e para comunicar soluções complexas de forma simples. Além disso, essa experiência me permite lidar com diversas áreas, integrar diferentes perspectivas e ser criativo na busca de soluções inovadoras.
 
 - Thanks for visiting.
 
