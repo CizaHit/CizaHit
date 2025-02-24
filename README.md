@@ -17,11 +17,10 @@
 
 - Enjoy it!! \o/
 
-
-[![CizaHit GitHub stats](https://github-readme-stats.vercel.app/api?username=CizaHit)](https://github.com/CizaHit/github-readme-stats)
-
 ![CizaHit GitHub stats](https://github-readme-stats.vercel.app/api?username=CizaHit&show_icons=true&theme=radical)
 
+
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
