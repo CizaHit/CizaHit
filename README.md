@@ -23,7 +23,7 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 
-<img align="right" width="100" height="400" src="[coloque_o_link_de_uma_foto_aqui](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+<img align="right" width="200" height="50" src="[coloque_o_link_de_uma_foto_aqui](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 )">
 
 
