@@ -19,12 +19,8 @@
 
 ![CizaHit GitHub stats](https://github-readme-stats.vercel.app/api?username=CizaHit&show_icons=true&theme=radical)
 
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
 <img src="{[BadgeURLHere](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)}" />
-
-
+![image]({[BadgeURLHere](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)})
 
 
 
