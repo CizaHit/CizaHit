@@ -20,9 +20,10 @@
 
 [![CizaHit GitHub stats](https://github-readme-stats.vercel.app/api?username=CizaHit)](https://github.com/CizaHit/github-readme-stats)
 
-[![CizaHit GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/CizaHit/github-readme-stats)
 
-![CizaHit GitHub stats](https://github-readme-stats.vercel.app/api?CizaHit=anuraghazra&show_icons=true&theme=radical)
+
+![CizaHit GitHub stats](https://github-readme-stats.vercel.app/api?username=CizaHit)
+
 
 
 https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
